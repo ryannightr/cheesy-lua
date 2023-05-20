@@ -22,7 +22,7 @@ ui.setAsynchronousImagesLoading(true)
 --Image Config table that is used by the script. 
 --Duplicate the entire table and increment the numbers by 1.
 --Follow the example from image_0 and image_1 to get an understanding of how it works.
-local image_0_source = 'https://raw.githubusercontent.com/CheesyManiac/cheesy-lua/main/server-scripts/iconScript/rocketIcon.gif'
+local image_0_source = 'https://i.imgur.com/4AWfi28.png'
 local image_1_source = ''
 
 -------------------------------------------------------------------
